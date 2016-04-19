@@ -1,0 +1,1 @@
+{"temp":"absolute","bg":157,"tick":"+11","eventualBG":181,"snoozeBG":205,"predBGs":{"IOB":[157,166,175,182,188,192,196,198,199,199,197,194,190,185,181,177,173,169,165,161,158,154,151,148,145,143,141,138,136,135,133,132,130,129,129,128]},"reason":"COB: undefined, Dev: 92, BGI: -4.28, Target: 115; Eventual BG 181>=120, adj. req. rate:2.1 to maxSafeBasal:2.0, temp 2 >~ req 2.0U/hr"}
