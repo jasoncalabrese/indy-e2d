@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":86,"tick":-8,"eventualBG":-109,"snoozeBG":38,"predBGs":{"IOB":[86,78,70,62,53,44,39,39,39,39,39,39,39]},"reason":"COB: 0, Dev: -12, BGI: -4, Target: 115; Eventual BG -109<115, setting -3.28U/hr, but 30m left and 0 ~ req 0U/hr: no action required"}
+{"temp":"absolute","bg":110,"tick":-1,"eventualBG":89,"snoozeBG":89,"predBGs":{"IOB":[110,109,107,105,104,102,100,98,96,93,91,88,85,82,80,79,77,77,76,77,77,77,77,77,78]},"reason":"COB: 0, Dev: 47, BGI: -8.76, Target: 115; Eventual BG 89<115, Snooze BG 89, setting 0.39U/hr","duration":30,"rate":0.4}
