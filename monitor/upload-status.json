@@ -3,53 +3,58 @@
   "pump": {
     "battery": {
       "status": "normal", 
-      "voltage": 1.53
+      "voltage": 1.52
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-05-06T10:40:34.000Z", 
+      "timestamp": "2016-05-06T14:27:57.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 115.75, 
-    "clock": "2016-05-06T03:39:52-07:00"
+    "reservoir": 113.7, 
+    "clock": "2016-05-06T07:26:52-07:00"
   }, 
   "openaps": {}, 
   "mmtune": {
     "scanDetails": [
       [
-        "916.580", 
+        "916.560", 
         4, 
         -95
+      ], 
+      [
+        "916.580", 
+        5, 
+        -91
       ], 
       [
         "916.600", 
         5, 
-        -93
+        -87
       ], 
       [
         "916.620", 
-        5, 
-        -93
+        4, 
+        -89
       ], 
       [
         "916.640", 
-        5, 
-        -93
+        4, 
+        -86
       ], 
       [
         "916.660", 
-        5, 
-        -93
+        4, 
+        -89
       ], 
       [
         "916.680", 
         4, 
-        -95
+        -91
       ]
     ], 
-    "setFreq": 916.66, 
-    "timestamp": "2016-05-06T10:40:23.000Z", 
+    "setFreq": 916.6, 
+    "timestamp": "2016-05-06T14:27:07.000Z", 
     "usedDefault": false
   }
 }
